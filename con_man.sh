@@ -13,5 +13,3 @@ elif [ $wifi = 'down' ] && [ $usb_wifi == 'down' ] && [ $eth_state -eq 0 ]; then
     nmcli radio wifi on
 fi
 
-
-sadas
