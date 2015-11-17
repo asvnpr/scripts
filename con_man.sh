@@ -1,4 +1,4 @@
-#! usr/bin/bash
+#! /usr/bin/bash
 
 #script to turn off wifi if ethernet cable is connected
 #and turn wifi back on if the wifi interfaces are down and ethernet is not connected
@@ -14,3 +14,4 @@ elif [ $wifi = 'down' ] && [ $usb_wifi == 'down' ] && [ $eth_state -eq 0 ]; then
 fi
 
 
+sadas
