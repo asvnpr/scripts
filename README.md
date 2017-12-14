@@ -1,2 +1,2 @@
 #scripts
-#bash and maybe python scripts I use on my laptop
+silly bash and python scripts I've made 
